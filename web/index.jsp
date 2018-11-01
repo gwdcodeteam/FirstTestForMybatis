@@ -11,9 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  修改仓库名字测试
-  ..可以提交吗？
-  ..代码提交
   $END$
   </body>
 </html>
