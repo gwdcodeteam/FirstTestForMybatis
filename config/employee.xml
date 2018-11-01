@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF­8" ?>
+
+<!DOCTYPE mapper
+
+        PUBLIC "­//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis­3­mapper.dtd">
+<!--这地方怎么写？-->
+<mapper namespace="org.mybatis.example.BlogMapper">
+    <select id="findEmployeeById" parameterType="int" resultType="org.cychan.mybatis.pojo.Employee">
+            select * from where id=#{id}
+    </select>
+</mapper>
